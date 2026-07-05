@@ -6,77 +6,77 @@
 
 ---
 
-## 🚀 Resumen Profesional
+## 🚀 Professional Summary
 
-Senior Full Stack Developer, Tech Lead y Co-Founder con más de 4 años de experiencia especializándose en el diseño, desarrollo y optimización de sistemas de nivel empresarial, plataformas contables y arquitecturas móviles robustas. 
+Senior Full Stack Developer, Tech Lead, and Co-Founder with over 4 years of experience specializing in the design, development, and optimization of enterprise-grade systems, accounting platforms, and robust mobile architectures. 
 
-Experto en liderar equipos técnicos bajo flujos de trabajo estrictos de desarrollo (**Clean Architecture**) e implementar automatización exhaustiva de pruebas (**Unit, Integration y E2E**). Altamente especializado en desarrollo móvil reactivo de alta eficiencia, servicios backend escalables y en la orquestación de **AI Agents** de grado de producción utilizando **LangChain** y **LangGraph**. Enfocado en entregar interfaces de usuario web intuitivas garantizando rigurosos estándares de seguridad y automatización de procesos de negocio.
+Expert in leading technical teams under strict development workflows (**Clean Architecture**) and implementing comprehensive testing automation (**Unit, Integration, and E2E**). Highly specialized in high-efficiency reactive mobile development, scalable backend services, and orchestrating production-grade **AI Agents** utilizing **LangChain** and **LangGraph**. Focused on delivering intuitive, seamless web user interfaces while ensuring rigorous security standards and business process automation.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
-### 📱 Móvil (Flutter)
-* **Lenguajes & Estado:** Dart, Riverpod (Code Generation & Caching)
-* **Características:** WebSockets, Mapas/Geolocalización, Sincronización Local Offline, Push Notifications, Firebase.
+### 📱 Mobile (Flutter)
+* **Languages & State Management:** Dart, Riverpod (Code Generation & Caching)
+* **Features:** WebSockets, Maps/Geolocation, Local Offline Synchronization, Push Notifications, Firebase.
 
 ### 💻 Frontend (Web)
-* **Frameworks & Librerías:** Next.js 14 (App Router), React, TypeScript
-* **Estilos & Componentes:** Tailwind CSS, shadcn/ui
-* **Gestión de Datos & Formularios:** TanStack Query (React Query), React Hook Form, Zod.
+* **Frameworks & Libraries:** Next.js 14 (App Router), React, TypeScript
+* **Styling & Components:** Tailwind CSS, shadcn/ui
+* **Data Management & Forms:** TanStack Query (React Query), React Hook Form, Zod.
 
 ### ⚙️ Backend & APIs
-* **Tecnologías:** NestJS, Node.js, FastAPI, Python
-* **Bases de Datos & ORM:** PostgreSQL, SQL, TypeORM, RESTful APIs.
+* **Technologies:** NestJS, Node.js, FastAPI, Python
+* **Databases & ORM:** PostgreSQL, SQL, TypeORM, RESTful APIs.
 
-### 🤖 Inteligencia Artificial & ML
-* **Herramientas:** LangChain, LangGraph (AI Agents & Custom Tools)
-* **Modelos:** Machine Learning, Deep Learning (TensorFlow, PyTorch).
+### 🤖 Artificial Intelligence & ML
+* **Tools:** LangChain, LangGraph (AI Agents & Custom Tools)
+* **Models:** Machine Learning, Deep Learning (TensorFlow, PyTorch).
 
-### 🔧 Herramientas & DevOps
+### 🔧 Tools & DevOps
 * Visual Studio, GitHub, Git.
 
 ---
 
-## 💼 Experiencia Laboral
+## 💼 Work Experience
 
 ### **DEVALL SAS** | Co-Founder & Tech Lead
-*Enero 2018 - Enero 2022 | Junio 2024 - Junio 2025 | Diciembre 2024 - Actualmente*
+*January 2018 - January 2022 | June 2024 - June 2025 | December 2024 - Present*
 🌐 [devallsas.com](https://devallsas.com/)
 
-> Agencia de desarrollo de software enfocada en la automatización de procesos de negocio y sistemas financieros de alta fidelidad.
+> Software development agency focused on business process automation and high-fidelity financial systems.
 
-* **High-Performance Web Architecture:** Diseñé e implementé la arquitectura central para *SIGMA/Devall Contable* basada en Next.js 14 (App Router) y TypeScript, consumiendo un backend distribuido en FastAPI a través de un reverse proxy local en `/api/` para mitigar problemas de CORS y optimizar la latencia de las peticiones.
-* **Flujos de Trabajo Estrictos:** Ideé e impuse un flujo de trabajo mandatorio desacoplado de 4 capas (`Interface` → `Service` → `Hook` → `Component/Page`) para el equipo de desarrollo, asegurando un tipado estricto para peticiones/respuestas, aislamiento completo de la lógica de UI y mutaciones de estado predecibles mediante TanStack Query.
-* **Optimización Financiera y de UI:** Implementé un manejo numérico preciso forzando a que los montos monetarios se procesen en centavos en el backend; construí utilidades globales de formateo de moneda e interfaces densas y responsivas usando Tailwind CSS y componentes de shadcn/ui validados con esquemas distribuidos vía Zod.
-* **Arquitectura Móvil Reactiva:** Diseñé múltiples aplicaciones móviles complejas usando Flutter, estructurando la gestión de estado global con Riverpod (empleando anotaciones de generación de código) e implementando estrategias avanzadas de caché para optimizar el consumo de red, mitigar transferencias de datos redundantes y acelerar los tiempos de respuesta en un 40%.
-* **Control de Negocio y Automatización:** Desarrollé módulos críticos de alta precisión (banca, inventario, facturación y firmas digitales) integrando sincronización offline con bases de datos locales, mapas/geolocalización en tiempo real y comunicación bidireccional mediante WebSockets.
-* **Automatización de Pruebas:** Establecí una infraestructura de pruebas con más de 200 tests automatizados distribuidos estratégicamente usando Vitest, Testing Library, MSW (Mock Service Worker) y Playwright para flujos financieros críticos E2E, reduciendo las regresiones en producción a cero.
-* **Inteligencia Artificial Aplicada:** Diseñé e integré agentes autónomos de IA de grado de producción utilizando LangChain y LangGraph, construyendo herramientas personalizadas que interactúan dinámicamente con bases de datos PostgreSQL (vía TypeORM dentro de ecosistemas NestJS) para la generación automatizada de reportes y business intelligence conversacional.
+* **High-Performance Web Architecture:** Designed and implemented the core architecture for *SIGMA/Devall Contable* based on Next.js 14 (App Router) and TypeScript, consuming a distributed backend in FastAPI through a local reverse proxy at `/api/` to mitigate CORS issues and optimize request latency.
+* **Strict Development Workflows:** Devised and enforced a decoupled 4-layer mandatory workflow (`Interface` → `Service` → `Hook` → `Component/Page`) for the development team, ensuring strict typing for requests/responses, complete isolation of UI logic, and predictable state mutations via TanStack Query.
+* **Financial & UI Optimization:** Implemented precise numerical handling by forcing monetary amounts to be processed in cents on the backend; built global currency formatting utilities and dense, responsive interfaces using Tailwind CSS and shadcn/ui components validated with distributed schemas via Zod.
+* **Reactive & Efficient Mobile Architecture:** Designed multiple highly complex mobile applications using Flutter, structuring global state management with Riverpod (utilizing code generation annotations) and implementing advanced caching strategies to optimize network consumption, mitigate redundant data transfers, and accelerate response times by 40%.
+* **Business Control & Automation:** Developed critical, high-precision modules (banking, inventory, invoicing, and digital signatures) integrating offline synchronization with local databases, real-time maps/geolocation, and bi-directional communication via WebSockets, enabling clients to automate operational flows and retrieve exact accounting reports.
+* **Testing Automation & Software Robustness:** Established a testing infrastructure with over 200 automated tests strategically distributed using Vitest, Testing Library, MSW (Mock Service Worker for network-level API mocking), and Playwright for critical E2E financial flows, ensuring stable deployments and reducing production regressions to zero.
+* **Applied Artificial Intelligence:** Designed and integrated production-grade autonomous AI agents using LangChain and LangGraph, building custom tools that dynamically interact with PostgreSQL databases (via TypeORM within NestJS ecosystems) for automated report generation and conversational business intelligence.
 
-### **MCKAKOS** | Desarrollador de Software Full Stack
-*Diciembre de 2022 - Diciembre de 2023 (1 año)*
+### **MCKAKOS** | Full Stack Software Developer
+*December 2022 - December 2023 (1 year)*
 
-* Especializado en la construcción de soluciones web y móviles de alta calidad, dominando el desarrollo de RESTful APIs usando TypeScript, Python y frameworks como React, Next.js y Flutter.
-* Diseñé e implementé arquitecturas escalables y eficientes, entregando proyectos que cumplieron con los estrictos requerimientos del cliente mientras se proveía una excelente experiencia de usuario.
+* Specialized in building high-quality web and mobile solutions, mastering RESTful API development using TypeScript, Python, and frameworks such as React, Next.js, and Flutter.
+* Designed and implemented scalable and efficient architectures, delivering projects that met strict client requirements while providing an excellent user experience.
 
-### **Ecx-labs** | Desarrollador Full Stack
-*Quito | Mayo 2021 - Mayo 2022*
+### **Ecx-labs** | Full Stack Developer
+*Quito | May 2021 - May 2022*
 
-* Diseñé y desplegué sistemas empresariales robustos utilizando Flutter para la interfaz móvil y servicios en la nube de AWS para asegurar la escalabilidad de la infraestructura.
-
----
-
-## 🎓 Educación
-
-* **Maestría en Ciencia de Datos y Máquinas de Aprendizaje**
-    *Universidad Técnica de Manabí*
-* **Ingeniería en Sistemas de Información**
-    *Universidad Técnica de Manabí*
+* Designed and deployed robust enterprise systems utilizing Flutter for the mobile interface and AWS cloud services to ensure infrastructure scalability.
 
 ---
 
-## 🗣️ Idiomas
+## 🎓 Education
 
-* **Español:** Nativo
-* **Inglés:** Intermedio
+* **Master’s Degree in Data Science and Machine Learning**
+    *Universidad Técnica de Manabí*
+* **Information Systems Engineering**
+    *Universidad Técnica de Manabí*
+
+---
+
+## 🗣️ Languages
+
+* **Spanish:** Native
+* **English:** Intermediate
