@@ -2,7 +2,7 @@
 ### Full Stack Engineer | AI Engineer | Data Scientist | Python Developer
 
 📧 [jesnaruto37@gmail.com](mailto:jesnaruto37@gmail.com) | 📱 +593960457344 | 📍 Rocafuerte, Manabí, Ecuador
-🌐 [GitHub](https://github.com/XxDextroxX/XxDextroxX) | 💼 [LinkedIn](https://www.linkedin.com/in/jesuszambrano-developer-data-science) | 🎂 23/04/1999
+🌐 [GitHub](https://github.com/XxDextroxX/XxDextroxX) | 💼 [LinkedIn](https://www.linkedin.com/in/jesus-zambrano-developer-data-science/) | 🎂 23/04/1999
 
 ---
 
